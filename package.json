@@ -1,0 +1,25 @@
+{
+  "name": "mp4exp",
+  "version": "1.0.0",
+  "description": "mp4 live stream experiments",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yokeap/mp4packexp.git"
+  },
+  "keywords": [
+    "mp4fragment",
+    "live",
+    "streaming",
+    "socket.io"
+  ],
+  "author": "Siwakorn Sukprasertchai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yokeap/mp4packexp/issues"
+  },
+  "homepage": "https://github.com/yokeap/mp4packexp#readme"
+}
